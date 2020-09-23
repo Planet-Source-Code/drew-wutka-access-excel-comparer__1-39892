@@ -1,0 +1,9 @@
+frmMain = 66, 66, 559, 516, , 22, 22, 515, 472, C
+modGlobalVariables = 110, 110, 603, 560, C
+modSettingsConnection = 132, 132, 625, 582, Z
+Defaults = 154, 154, 647, 604, 
+frmSessions = 132, 132, 625, 582, , 110, 110, 603, 560, C
+frmSessionOptions = 88, 88, 581, 538, C, 66, 66, 559, 516, C
+MatchListInfo = 0, 0, 0, 0, C
+modCompareConnections = 44, 44, 557, 494, 
+ExportTypes = 44, 44, 557, 494, 

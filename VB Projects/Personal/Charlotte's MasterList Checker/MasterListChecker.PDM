@@ -1,0 +1,141 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\VB Projects\Personal\Charlotte's MasterList Checker\Setup
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Resource Kit\comdlg32.ocx=
+C:\Program Files\Support Tools\tabctl32.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+D:\VB Projects\Personal\Charlotte's MasterList Checker\AECSettings.mdb=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\VB Projects\Personal\Charlotte's MasterList Checker\AccessExcelComparer.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Support Tools\tabctl32.ocx=Yes
+C:\WINNT\system32\MSFLXGRD.OCX=Yes
+C:\Program Files\Resource Kit\comdlg32.ocx=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSINET.OCX=Yes
+C:\WINNT\system32\Richtx32.ocx=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINNT\system32\MSCHRT20.OCX=Yes
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\MSMAPI32.OCX=Yes
+C:\WINNT\system32\MCI32.OCX=Yes
+C:\WINNT\system32\PICCLP32.OCX=Yes
+C:\WINNT\system32\SYSINFO.OCX=Yes
+C:\WINNT\system32\MSCOMM32.OCX=Yes
+C:\WINNT\system32\MSMASK32.OCX=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\MSDATLST.OCX=Yes
+C:\WINNT\system32\COMCT332.OCX=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\MSHFLXGD.OCX=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\VB Projects\Personal\Charlotte's MasterList Checker\AECSettings.mdb=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\VB Projects\Personal\Charlotte's MasterList Checker\AccessExcelComparer.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Support Tools\tabctl32.ocx=$(WinSysPath)
+C:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Resource Kit\comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSINET.OCX=$(WinSysPath)
+C:\WINNT\system32\Richtx32.ocx=$(WinSysPath)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINNT\system32\MCI32.OCX=$(WinSysPath)
+C:\WINNT\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINNT\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINNT\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\MSHFLXGD.OCX=$(WinSysPath)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\VB Projects\Personal\Charlotte's MasterList Checker\AECSettings.mdb=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\VB Projects\Personal\Charlotte's MasterList Checker\AccessExcelComparer.exe=No
+P:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\VB Projects\Personal\Charlotte's MasterList Checker\AECSettings.mdb=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=WolfWares.com's Access/Excel Comparer
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=WolfWares.com
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|WolfWares.com]
+Icon1=AccessExcelComparer.exe
+Title1=Access - Excel Comparer
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\VB Projects\Personal\Charlotte's MasterList Checker\Setup
+ProjectFolder=D:\VB Projects\Personal\Charlotte's MasterList Checker
+ServerSideCab=
+File1=D:\VB Projects\Personal\Charlotte's MasterList Checker\Setup\setup.exe
+File2=D:\VB Projects\Personal\Charlotte's MasterList Checker\Setup\Setup.Lst
+File3=D:\VB Projects\Personal\Charlotte's MasterList Checker\Setup\AccessExcelComparer.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
